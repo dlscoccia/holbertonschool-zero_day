@@ -1,4 +1,4 @@
-[Logo](https://rails-assets.holbertonschool.com/assets/logos/holberton-school-logo_tablet-1-04810483bf8b1cf6eb253405d5b35dbed5fd303a896eba7f9b2d53c7d4690fe5.png)
+![Logo](https://rails-assets.holbertonschool.com/assets/logos/holberton-school-logo_tablet-1-04810483bf8b1cf6eb253405d5b35dbed5fd303a896eba7f9b2d53c7d4690fe5.png)
 *This is the README file for the project.*
 In master branch you can find the folder for vagrant, emacs, vi and git and the files that are pertinent to each project.
 
